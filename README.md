@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello World! 👋
 
-<!--
-**bouchoughlreda/bouchoughlreda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bouchoughl Reda, a computer science student passionate about software development and open source.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Skills
+- **Languages:** Python, JavaScript, Java
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** Advanced GitHub workflows, Open Source contribution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Hello World](https://github.com/bouchoughlreda/hello-world) - My GitHub learning journey repository
+- [Live Demo](https://bouchoughlreda.github.io/hello-world) - My GitHub Pages site
+
+## 📚 Currently Learning
+- Git and GitHub advanced workflows
+- Open source contribution
+- Software development best practices
+
+## 📫 How to Reach Me
+- GitHub: [@bouchoughlreda](https://github.com/bouchoughlreda)
+- Email: bouchoughl.reda@gmail.com
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([www.linkedin.com/in/reda-bouchoughl])
+
+---
+⭐️ From [bouchoughlreda](https://github.com/bouchoughlreda)
