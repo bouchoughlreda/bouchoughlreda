@@ -25,3 +25,19 @@ I'm Bouchoughl Reda, a computer science student passionate about software develo
 
 ---
 ⭐️ From [bouchoughlreda](https://github.com/bouchoughlreda)
+
+## 🏆 GitHub Achievements
+![GitHub Followers](https://img.shields.io/github/followers/bouchoughlreda?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/bouchoughlreda?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Repositories](https://badgen.net/badge/Repositories/10+?color=blue)
+
+## 💼 Portfolio Projects
+
+### 🔧 Learning & Education
+- [**Hello World**](https://github.com/bouchoughlreda/hello-world) - Comprehensive Git/GitHub learning journey
+  - Live Demo: https://bouchoughlreda.github.io/hello-world
+  - Features: Professional documentation, GitHub Pages, Issue tracking
+
+### 📚 Academic & Research
+- All projects include CITATION.cff files for academic reference
+- Proper licensing (MIT) for open collaboration
