@@ -21,7 +21,7 @@ I'm Bouchoughl Reda, a computer science student passionate about software develo
 - Email: bouchoughl.reda@gmail.com
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([www.linkedin.com/in/reda-bouchoughl])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([reda-bouchoughl])
 
 ---
 ⭐️ From [bouchoughlreda](https://github.com/bouchoughlreda)
